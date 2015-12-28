@@ -1,3 +1,3 @@
-# 3D-Gcode-Cutter
+# 3DPrinter-Gcode-Cutter
 Cut Reprap Gcode into 2 parts.
-So that I can resume printing afer shutdown 3D printer when printing large parts.
+So that I can resume printing afer shutdown 3Dprinter when printing large parts.
